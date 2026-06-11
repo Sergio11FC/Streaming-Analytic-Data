@@ -26,7 +26,7 @@ La app se abre automáticamente en http://localhost:8501
 streaming_dashboard/
 ├── app.py              ← Aplicación principal
 ├── requirements.txt    ← Dependencias Python
-├── sample_data.csv     ← Datos de ejemplo (2021–2024)
+├── sample_data.csv     ← Datos (2021–2025)
 └── README.md           ← Este archivo
 
 
